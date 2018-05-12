@@ -1,0 +1,27 @@
+_repo: The-Fascinating-BostonHow-to-Dance-and-How-to-Teach-the-Popular-New-Social-Favorite_37443
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sheafe, Alfonso Josephs
+    gutenberg_agent_id: '38844'
+    url: http://www.gutenberg.org/2009/agents/38844
+description: ''
+gutenberg_issued: '2011-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37443'
+  lccn: '13001945'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boston (Dance)'
+- !lcc 'GV'
+title: 'The Fascinating Boston
+
+  How to Dance and How to Teach the Popular New Social Favorite'
+url: http://www.gutenberg.org/ebooks/37443
