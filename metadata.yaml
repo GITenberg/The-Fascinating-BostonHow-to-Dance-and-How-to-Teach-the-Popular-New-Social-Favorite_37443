@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '38844'
     url: http://www.gutenberg.org/2009/agents/38844
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37443#The-Fascinating-BostonHow-to-Dance-and-How-to-Teach-the-Popular-New-Social-Favorite
 gutenberg_issued: '2011-09-15'
 gutenberg_type: Text
 identifiers:
